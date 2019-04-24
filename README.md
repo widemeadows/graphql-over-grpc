@@ -6,7 +6,7 @@
 - from project root `protoc -I . graphql/graphql.proto --go_out=plugins=grpc:.`
 - copy file `graphql/graphql.pb.go` in your project
 
-##Generate Other language code
+## Generate Other language code
 Visit [https://grpc.io/docs/quickstart/](https://grpc.io/docs/quickstart/)
 
 ## How to use dfuse graphQL API over gRPC
